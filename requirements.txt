@@ -1,0 +1,8 @@
+# mollisfelis project requirements
+
+numpy
+pandas
+scikit-learn
+jupyter
+matplotlib
+seaborn
